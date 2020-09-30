@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{FEF759C9-A255-F15A-8C2A-DADE8C9D90E1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/OptionSceneManager.cs">
+    <Files>
+      <File FileName="Assets/Platform.cs" Line="12" Column="25" />
+      <File FileName="Assets/Script/Camera.cs" Line="5" Column="30" />
+      <File FileName="Assets/Script/moving.cs" Line="7" Column="28" />
+      <File FileName="Assets/Script/GameOverScene.cs" Line="27" Column="25" />
+      <File FileName="Assets/Script/StartMenu.cs" Line="21" Column="1" />
+      <File FileName="Assets/Script/Player.cs" Line="15" Column="26" />
+      <File FileName="Assets/Script/background.cs" Line="18" Column="9" />
+      <File FileName="Assets/Script/levelGenerator.cs" Line="25" Column="42" />
+      <File FileName="Assets/Script/ScoreManager.cs" Line="27" Column="49" />
+      <File FileName="Assets/Script/OptionSceneManager.cs" Line="8" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Not Doodle Jump" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="OptionSceneManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="93aa097f-e65b-4eae-b30a-2bba3f1b5ef6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
